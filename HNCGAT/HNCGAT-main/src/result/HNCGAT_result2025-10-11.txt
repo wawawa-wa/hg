@@ -1,0 +1,4 @@
+Namespace(gpu=1, n_epochs=1000, lr=0.005, lamb=1, hid_dim=64, dropout=0.5, temperature=0.1, edgetype='concat')
+Namespace(gpu=1, n_epochs=1000, lr=0.005, lamb=1, hid_dim=64, dropout=0.5, temperature=0.1, edgetype='concat')
+Namespace(gpu=1, n_epochs=1000, lr=0.005, lamb=1, hid_dim=64, dropout=0.5, temperature=0.1, edgetype='concat')
+Namespace(gpu=1, n_epochs=1000, lr=0.005, lamb=1, hid_dim=64, dropout=0.5, temperature=0.1, edgetype='concat')
